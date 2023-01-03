@@ -1,0 +1,93 @@
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.staticwebassets.runtime.json
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.exe
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.deps.json
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.runtimeconfig.json
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.dll
+C:\Users\Dell\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.pdb
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.AssemblyInfo.cs
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.infomax.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.build.infomax.props
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.infomax.props
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.infomax.props
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\bundle\infomax.styles.css
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\projectbundle\infomax.bundle.scp.css
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.dll
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\refint\infomax.dll
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.pdb
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.genruntimeconfig.cache
+C:\Users\Dell\source\repos\infomax\infomax\obj\Debug\net6.0\ref\infomax.dll
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\appsettings.json
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.staticwebassets.runtime.json
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.exe
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.deps.json
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.runtimeconfig.json
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.dll
+C:\Users\Neerazan\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.pdb
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.csproj.AssemblyReference.cache
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.AssemblyInfoInputs.cache
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.AssemblyInfo.cs
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.csproj.CoreCompileInputs.cache
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.RazorAssemblyInfo.cache
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.RazorAssemblyInfo.cs
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.infomax.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.build.infomax.props
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.infomax.props
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.infomax.props
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\bundle\infomax.styles.css
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\projectbundle\infomax.bundle.scp.css
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.dll
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\refint\infomax.dll
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.pdb
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.genruntimeconfig.cache
+C:\Users\Neerazan\source\repos\infomax\infomax\obj\Debug\net6.0\ref\infomax.dll
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\appsettings.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.staticwebassets.runtime.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.exe
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.deps.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.runtimeconfig.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.dll
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\bin\Debug\net6.0\infomax.pdb
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.csproj.AssemblyReference.cache
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.AssemblyInfoInputs.cache
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.AssemblyInfo.cs
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.csproj.CoreCompileInputs.cache
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.RazorAssemblyInfo.cache
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.RazorAssemblyInfo.cs
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.infomax.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.build.infomax.props
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.infomax.props
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.infomax.props
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\bundle\infomax.styles.css
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\scopedcss\projectbundle\infomax.bundle.scp.css
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.dll
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\refint\infomax.dll
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.pdb
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\infomax.genruntimeconfig.cache
+C:\Users\Neerajan Dhakal\source\repos\infomax\infomax\obj\Debug\net6.0\ref\infomax.dll
